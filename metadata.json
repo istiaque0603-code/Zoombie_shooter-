@@ -1,0 +1,6 @@
+{
+  "name": "Far Away From Deen - Zombie Shooter",
+  "description": "Retro 2D pixel-art zombie shooter following Fardeen through city outbreaks, boss battles against dramatic zombie exes, and a romantic Taj Mahal climax!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
